@@ -6,5 +6,5 @@ A: Never mind, its too cheesy.
 Q: Why do bicycles fall over?
 A: They are two tired.
 
-Q: How does teh ocean say hello?
+Q: How does the ocean say hello?
 A: It waves.
