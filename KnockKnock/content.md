@@ -5,3 +5,4 @@ Knock knock joke #4
 Knock knock joke #5
 Knock knock joke #6
 Knock knock joke #7
+Knock knock joke #8
