@@ -8,3 +8,6 @@ A: They are two tired.
 
 Q: How does the ocean say hello?
 A: It waves.
+
+Q: How do you mend a Tuba
+A: With a tuba glue.
