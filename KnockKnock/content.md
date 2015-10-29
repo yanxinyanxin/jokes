@@ -13,3 +13,9 @@ Who's There?
 Boo
 Boo who?
 No need to cry, the joke's not that bad!
+
+Knock, knock.
+Who’s there?
+Canoe.
+Canoe who?
+Canoe help me with my homework?
