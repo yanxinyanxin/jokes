@@ -13,3 +13,8 @@ Amos who?
 A mosquito
 
 #3
+Knock, knock.
+Who’s there?
+Canoe.
+Canoe who?
+Canoe help me with my homework?
