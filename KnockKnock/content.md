@@ -11,3 +11,9 @@ Who's there?
 Amos
 Amos who?
 A mosquito
+
+Knock, knock.
+Who’s there?
+Canoe.
+Canoe who?
+Canoe help me with my homework?
