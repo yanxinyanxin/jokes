@@ -11,3 +11,6 @@ A: It waves.
 
 Q: How do you mend a Tuba
 A: With a tuba glue.
+
+Q: Why kids are always complaining
+A: to show love
