@@ -10,3 +10,5 @@ Do not expect any funny jokes here.
 
 -- Lawyer Jokes 
 [Lawyers](Lawyers/content.md)
+
+-- HAHA Jokes
