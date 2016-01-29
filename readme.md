@@ -8,5 +8,5 @@ Do not expect any funny jokes here.
 ## Kids Jokes
 [Kids](Kids/content.md)
 
-## Lawyer Jokes
+- Lawyer Jokes
 [Lawyers](Lawyers/content.md)
